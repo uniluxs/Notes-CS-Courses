@@ -1,3 +1,2 @@
-# Games_learn_Java_Python
+# This is a repo for Online Courses Notes.
 
-# To learn programming, I will combine them with my interested projects and areas, let's see.
